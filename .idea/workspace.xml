@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1beba19-492e-4df0-8bce-e71a862c743f" name="Default" comment="" />
+    <list default="true" id="d1beba19-492e-4df0-8bce-e71a862c743f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/demo/view/MainView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/demo/view/MainView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/positions.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/positions.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/positions.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/positions.csv" afterDir="false" />
+    </list>
     <ignored path="tornadofx-empty-project.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,25 +21,6 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DockManager">
-    <window id="2">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/main/resources/positions.csv">
-                <provider selected="true" editor-type-id="csv-text-editor">
-                  <state relative-caret-position="329">
-                    <caret line="40" selection-start-line="40" selection-end-line="40" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1771273181">
       <usages-collector id="statistics.lifecycle.project">
@@ -47,29 +33,31 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="4" />
+          <entry key="class" value="2" />
+          <entry key="csv" value="5" />
           <entry key="jpg" value="4" />
-          <entry key="kt" value="3" />
+          <entry key="kt" value="4" />
           <entry key="png" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSV" value="4" />
+          <entry key="CLASS" value="2" />
+          <entry key="CSV" value="5" />
           <entry key="Image" value="7" />
-          <entry key="Kotlin" value="3" />
+          <entry key="Kotlin" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="csv" value="1096" />
-          <entry key="kt" value="1501" />
+          <entry key="csv" value="1098" />
+          <entry key="kt" value="1513" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSV" value="1096" />
-          <entry key="Kotlin" value="1501" />
+          <entry key="CSV" value="1098" />
+          <entry key="Kotlin" value="1513" />
         </counts>
       </usages-collector>
     </session>
@@ -81,14 +69,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/example/demo/view/MainView.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="38" selection-end-column="80" />
+            <state relative-caret-position="222">
+              <caret line="37" column="65" lean-forward="true" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
               <folding>
                 <element signature="e#31#103#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/no/tornado/tornadofx/1.7.17/tornadofx-1.7.17.jar!/tornadofx/FXKt.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="67" column="47" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/positions.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="239">
+              <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -133,6 +139,9 @@
       <dir>C:\Users\es\Projects\tornadofx-idea-plugin\template-projects\tornadofx-maven-project</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
       <map>
@@ -159,8 +168,8 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/com/example/demo/app/MyApp.kt" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/example/demo/app/Styles.kt" />
-        <option value="$PROJECT_DIR$/src/main/resources/positions.csv" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/example/demo/view/MainView.kt" />
+        <option value="$PROJECT_DIR$/src/main/resources/positions.csv" />
       </list>
     </option>
   </component>
@@ -178,11 +187,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="238" />
+    <option name="x" value="570" />
     <option name="y" value="23" />
-    <option name="width" value="1039" />
+    <option name="width" value="755" />
     <option name="height" value="751" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -263,7 +273,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546399938689" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546488583998" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -468,7 +478,7 @@
     <option name="totallyTimeSpent" value="6498000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="238" y="23" width="1039" height="751" extended-state="0" />
+    <frame x="565" y="23" width="1039" height="751" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" order="0" sideWeight="0.49924126" visible="true" weight="0.26078236" />
@@ -482,7 +492,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3262519" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3976971" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39757207" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -557,9 +567,42 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/com/example/demo/view/MainView.kt</url>
+          <line>31</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>BoardPositions::class.java.getResource(&quot;/positions.csv&quot;).readText().lines()</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>it</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>it[0]</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/no/tornado/app/MyApp.kt" />
@@ -623,20 +666,41 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/monopoly_board.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/positions.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="329">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.2.60/kotlin-stdlib-common-1.2.60-sources.jar!/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="1490" selection-start-line="1490" selection-end-line="1490" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar!/sun/launcher/LauncherHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1579">
+          <caret line="581" column="5" lean-forward="true" selection-start-line="581" selection-start-column="5" selection-end-line="581" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/no/tornado/tornadofx/1.7.17/tornadofx-1.7.17.jar!/tornadofx/FXKt.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="67" column="47" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/example/demo/view/MainView.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="38" selection-end-column="80" />
+        <state relative-caret-position="222">
+          <caret line="37" column="65" lean-forward="true" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
           <folding>
             <element signature="e#31#103#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/positions.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="239">
+          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
         </state>
       </provider>
     </entry>

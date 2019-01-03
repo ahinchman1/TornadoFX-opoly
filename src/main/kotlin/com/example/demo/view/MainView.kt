@@ -25,7 +25,7 @@ class MainView : View("TornadoFX-opoly") {
 }
 
 object BoardPositions {
-    private val positionsById = BoardPositions::class.java.getResource("positions.csv").readText().lines()
+    private val positionsById = BoardPositions::class.java.getResource("/positions.csv").readText().lines()
             .asSequence()
             .map { it.split(",") }
             .map { Position(it[0].toInt(), it[1].toDouble(), it[2].toDouble()) }
