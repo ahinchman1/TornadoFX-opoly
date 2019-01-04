@@ -4,8 +4,18 @@
     <list default="true" id="d1beba19-492e-4df0-8bce-e71a862c743f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/demo/view/MainView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/demo/view/MainView.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/positions.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/positions.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/positions.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/positions.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/app/Styles$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/app/Styles$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/app/Styles$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/app/Styles$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/app/Styles.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/app/Styles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/view/BoardPositions$positionsById$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/view/BoardPositions$positionsById$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/view/BoardPositions$positionsById$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/view/BoardPositions$positionsById$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/view/BoardPositions$positionsById$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/view/BoardPositions$positionsById$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/view/BoardPositions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/view/BoardPositions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/view/MainView$root$1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/view/MainView$root$1$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/view/MainView$root$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/view/MainView$root$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/view/MainView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/view/MainView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/view/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/view/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/view/Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/view/Position.class" afterDir="false" />
     </list>
     <ignored path="tornadofx-empty-project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,39 +35,40 @@
     <session id="1771273181">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="csv" value="5" />
-          <entry key="jpg" value="4" />
-          <entry key="kt" value="4" />
+          <entry key="csv" value="6" />
+          <entry key="jpg" value="5" />
+          <entry key="kt" value="5" />
           <entry key="png" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="CSV" value="5" />
-          <entry key="Image" value="7" />
-          <entry key="Kotlin" value="4" />
+          <entry key="CSV" value="6" />
+          <entry key="Image" value="8" />
+          <entry key="Kotlin" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="csv" value="1098" />
-          <entry key="kt" value="1513" />
+          <entry key="kt" value="3966" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSV" value="1098" />
-          <entry key="Kotlin" value="1513" />
+          <entry key="Kotlin" value="3966" />
         </counts>
       </usages-collector>
     </session>
@@ -68,44 +79,19 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/example/demo/view/MainView.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="37" column="65" lean-forward="true" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
-              <folding>
-                <element signature="e#31#103#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="397">
+              <caret line="65" column="105" selection-start-line="65" selection-start-column="105" selection-end-line="65" selection-end-column="105" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/no/tornado/tornadofx/1.7.17/tornadofx-1.7.17.jar!/tornadofx/FXKt.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="67" column="47" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/positions.csv">
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="239">
-              <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/example/demo/app/Styles.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -114,10 +100,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/example/demo/app/MyApp.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/example/demo/controller/MainController.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="90">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/example/demo/app/Styles.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding>
+                <element signature="e#30#124#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,6 +126,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -167,9 +166,10 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/view/MainView.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/example/demo/app/MyApp.kt" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/example/demo/app/Styles.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/example/demo/view/MainView.kt" />
         <option value="$PROJECT_DIR$/src/main/resources/positions.csv" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/example/demo/app/Styles.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/example/demo/controller/MainController.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/example/demo/view/MainView.kt" />
       </list>
     </option>
   </component>
@@ -187,9 +187,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="570" />
+    <option name="x" value="238" />
     <option name="y" value="23" />
-    <option name="width" value="755" />
+    <option name="width" value="1177" />
     <option name="height" value="751" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -198,7 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -262,6 +261,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -273,7 +273,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546488583998" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546572002435" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -478,10 +478,10 @@
     <option name="totallyTimeSpent" value="6498000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="565" y="23" width="1039" height="751" extended-state="0" />
+    <frame x="238" y="23" width="1177" height="751" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" order="0" sideWeight="0.49924126" visible="true" weight="0.26078236" />
+      <window_info active="true" id="Project" order="0" sideWeight="0.49924126" visible="true" weight="0.17885463" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="UI Designer" order="3" />
@@ -491,14 +491,14 @@
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3262519" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3262519" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39757207" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32928678" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32776934" />
       <window_info anchor="bottom" id="JRebel remote servers log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="JRebel Executor" order="12" />
@@ -566,20 +566,6 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/com/example/demo/view/MainView.kt</url>
-          <line>31</line>
-          <properties>
-            <option name="lambda-ordinal" value="0" />
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -649,23 +635,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/player.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/example/demo/app/MyApp.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/example/demo/app/Styles.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/monopoly_board.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.2.60/kotlin-stdlib-common-1.2.60-sources.jar!/generated/_Collections.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -682,25 +651,50 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/no/tornado/tornadofx/1.7.17/tornadofx-1.7.17.jar!/tornadofx/FXKt.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="67" column="47" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
+        <state relative-caret-position="102">
+          <caret line="63" column="62" lean-forward="true" selection-start-line="63" selection-start-column="62" selection-end-line="63" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/example/demo/view/MainView.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/example/demo/app/MyApp.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="37" column="65" lean-forward="true" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
+        <state relative-caret-position="60">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/example/demo/app/Styles.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding>
-            <element signature="e#31#103#0" expanded="true" />
+            <element signature="e#30#124#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/positions.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="239">
-          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="csv-text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/example/demo/controller/MainController.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/monopoly_board.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/example/demo/view/MainView.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="65" column="105" selection-start-line="65" selection-start-column="105" selection-end-line="65" selection-end-column="105" />
         </state>
       </provider>
     </entry>
